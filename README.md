@@ -1,2 +1,2 @@
-# online
+# live
 Wi-Fi Point
